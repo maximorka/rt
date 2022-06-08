@@ -1,0 +1,7 @@
+{
+  "dbUrl": "jdbc:h2:./testDB1",
+  "group": {
+    "name": "vadym",
+    "surname": "DADA"
+  }
+}
